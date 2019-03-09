@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "datasource.rest.api.url",
+      "type": "java.lang.String",
+      "description": "Represent the remote URL for datasource location."
+    }
+  ]
+}
